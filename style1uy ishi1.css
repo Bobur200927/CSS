@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(20, 94, 124);
+    
+}
+div {
+    color: white;
+}
+.ikkinchi {
+    background-color: rgb(17, 75, 98);
+    border-radius: 1%;
+    
+}
+h4 {
+    border-bottom: 2px solid rgb(17, 80, 105);
+
+}
+h1 {
+    border-bottom: 2px solid rgb(20, 94, 124);
+
+}
