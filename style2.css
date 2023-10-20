@@ -1,3 +1,26 @@
 h3 {
-    border-bottom: ;
+    border-bottom: 2px solid rgb(211, 205, 205)  ;
 }
+
+.item1 {
+    background-color: red
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 50px;
+    border-color: rgb(75, 14, 14);
+    border: 5px solid brown
+    
+}
+.item2 {
+    background-color: red
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 50px;
+    border-color: rgb(75, 14, 14);
+    border: 5px solid brown
+    
+
+    
+}
+
+
