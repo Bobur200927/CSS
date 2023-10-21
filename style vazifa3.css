@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.content{
+    margin: 20px 100px;
+
+}
+
+
+.five{
+    background-color: black;
+    color: #fff;
+    padding: 20px;
+    
+}
+img {
+    width: 400px;
+    height: 300px;
+}
+
+
+
+
+

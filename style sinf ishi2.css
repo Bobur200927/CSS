@@ -1,0 +1,46 @@
+.width{
+    background-color: red;
+    width: 300px;
+    height: 100px;
+}
+
+span{
+    background-color: blue;
+    width: 100px;
+    
+}
+
+.demo{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+.maxw{
+    max-width: 500px;
+    background-color: orange;
+}
+
+.space{
+    border: 3px solid red;
+    margin-top: 100px;
+    /* margin-left: 100px; 
+    margin-right: 100px;
+    margin-bottom: 200px;
+    margin: 100px 150px 10px 50px;*/
+}
+
+.padding {
+    padding-top: 100px;
+    /*padding: 10px 20px;*/
+    border: 3px solid #000;
+}
+
+button {
+    padding: 10px 40px;
+    border-radius: 10px;
+    background-color: #000;
+    color: #fff;
+}
+
