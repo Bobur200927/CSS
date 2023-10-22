@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(55, 128, 55);
+    
+}
+
+.f{
+    color: black;
+    margin: 50px 450px
+}
+.g{
+    
+    color: black;
+    background-color: white;
+    margin: 50px 350px ;
+    padding: 15px;
+    width: 550px;
+    height: 800px;
+}
+.u {
+    background-color: green;
+    border: none;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+.o{
+    width: 300px;
+    padding: 5px 150px 5px 5px;
+}
